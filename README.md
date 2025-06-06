@@ -4,12 +4,23 @@ I'm a passionate **Software Developer** working with modern technologies and alw
 
 ---
 
+
 ## 🚀 About Me
+
+My journey in coding started with learning **C** and **C++**, where I built a strong foundation in programming fundamentals.  
+I then moved to **Java** ☕, diving deep into the challenging and powerful concepts of **Object-Oriented Programming (OOP)**, which shaped my approach to writing clean and maintainable code.  
+From there, I explored **Golang** 🐹 and **JavaScript** ✨ to build efficient and scalable applications.  
+
+Alongside, I developed a keen interest in **Data Mining** and **Machine Learning** algorithms, especially using **Python** 🐍 and its rich ecosystem of libraries like Pandas, NumPy, and Scikit-learn.
+
 
 - 💻 Experienced in **Java** ☕, **Golang** 🐹, and **JavaScript** ✨  
 - 📊 Exploring **Data Science** using **Python** 🐍 and its libraries (Pandas, NumPy, Matplotlib)  
 - 🌱 Open Source contributor and community lover  
 - 🔧 Building tools, APIs, and scalable applications with clean, maintainable code  
+- 📚 Avid reader who loves expanding knowledge through books and articles  
+- 💡 Passionate about sharing knowledge
+- 🎮 Gamer with a special love for adventure and simulation games  
 - 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/agung-pramono) | [Twitter](https://twitter.com/agungpramono)  
 - ⚡ Fun fact: Coffee fuels my coding sessions ☕😄
 
